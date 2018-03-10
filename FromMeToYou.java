@@ -1,6 +1,6 @@
 //Author: Alex Yang
 //Date created: 10/03/2018
-public class Tester
+public class FromMeToYou
 {
 	public static void main(String args[])
 	{

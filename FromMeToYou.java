@@ -8,5 +8,8 @@ public class Tester
 		System.out.println("Address: Dell Computer, Bldg 13");
 		System.out.println("Date: April 12, 2005");
 		System.out.println();
+		System.out.println("To: Jack Jones");
+		System.out.println();
+		System.out.println("Help! I'm trapped inside a computer!");
 	}
 }
